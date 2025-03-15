@@ -17,7 +17,13 @@ Open your terminal or command prompt and run:
 ```sh
 git clone https://github.com/ankush-dhingraa/rock-paper-scissors-python
 ```
-### 3️⃣ Run the Script
+### 3️⃣ Navigate to the Project Folder
+- Execute the following command:
+
+```sh
+cd rock-paper-scissors-python
+```
+### 4️⃣ Run the Script
 - Execute the following command:
 
 ```sh
